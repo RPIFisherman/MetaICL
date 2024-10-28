@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1_PgSNfjtYTyG1u4auuww1v6XVLFrLR9BrhCvVEq9dYg/edit?usp=sharing
+
 # MetaICL: Learning to Learn In Context
 
 This includes an original implementation of "[MetaICL: Learning to Learn In Context][paper]" by [Sewon Min](http://shmsw25.github.io/), [Mike Lewis](https://ai.facebook.com/people/mike-lewis/), [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
